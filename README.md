@@ -1,14 +1,17 @@
 # Jupyter Notebook Tutorial
-[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
+[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white)](https://jupyter.org)
 
 Este repositorio contiene una Jupyter Notebook con instructivos detallados para su ejecución.
+
+[![Static Badge](https://img.shields.io/badge/Informe-blue?logo=google-docs&logoColor=white&labelColor=gray)](https://docs.google.com/document/d/1H-vcH9u7PSGkIGuk4LZ_umzvTlm-VURD1IMFDXtZObA/edit?tab=t.0)
+
 
 ## Requisitos Previos
 
 Antes de comenzar, asegúrate de tener instalado:
 
-1. Python 3.7 o superior
+1. Python 3.10 o superior
 2. pip (gestor de paquetes de Python)
 
 ## Instalación
